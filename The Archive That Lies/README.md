@@ -3,7 +3,7 @@
 ## Status: 
 Ongoing
 
-**As long as the status is ongoing no one has gotten the flag.**
+
 
 
 ## How to submit flag:
