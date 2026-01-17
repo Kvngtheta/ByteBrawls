@@ -16,5 +16,15 @@ Find and submit the flag in the format:
 ## File
 - `The_archive_that_lies_part1.dat`
 
+## How to submit flag:
+Go to:
+https://bytebrawls.com/
+
+If your flag is correct you will be asked to enter your name and join the leaderboard
+
+
+## Solutions
+Solutions and full write-up will be posted on 1/23/2026
+
 ## Notes
 The file may not be what its extension suggests. Treat it like an artifact and validate what it really is.
